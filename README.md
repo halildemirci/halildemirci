@@ -1,16 +1,39 @@
-## Hi there 👋
+# Merhaba, ben Halil 👋
 
-<!--
-**halildemirci/halildemirci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** · İzmir, Türkiye
 
-Here are some ideas to get you started:
+5+ yıllık deneyimle işletmeler için web siteleri, e-ticaret platformları ve özel yönetim panelleri geliştiriyorum. Önyüzden arka yüze, veritabanından API'ye kadar projeleri uçtan uca tek başıma kurabiliyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Teknolojiler
+
+**Backend:** Node.js (Express) · PHP (Laravel) · RabbitMQ · Redis · Socket.io
+**Frontend:** React · Next.js · React Native · Tailwind CSS · Redux · Zustand
+**Veritabanı:** PostgreSQL · MySQL · MongoDB · Redis
+**Mimari:** Microservices · CQRS · Event-Driven Architecture
+**DevOps & Araçlar:** Docker · PM2 · Cloudflare · Git · REST API · Prisma · Sequelize
+**AI:** OpenAI API entegrasyonu
+
+---
+
+### 🚀 Öne Çıkan Projeler
+
+| Proje | Açıklama |
+|-------|----------|
+| **[Bunu Alırsın](https://bunualirsin.com)** | Yapay zeka destekli hediye asistanı — OpenAI entegrasyonu, kullanıcı profilleri, kurumsal hediye akışı |
+| **[Ticaretly](https://ticaretly.com)** | Dijital ürün & e-pin satış platformu — ürün varyantları, sepet, ödeme entegrasyonu |
+| **[GaleriDefteri](https://galeridefteri.com)** | Oto galerileri için finans yönetim paneli (SaaS) — anlık kâr takibi, raporlama |
+
+İşletmeler için sektörel web siteleri: diş kliniği, güzellik merkezi, oto servis, hukuk bürosu, psikolojik danışmanlık.
+
+---
+
+### 📫 İletişim
+
+- **E-posta:** halildemircitr@gmail.com
+- **LinkedIn:** [linkedin.com/in/halildemirci](https://linkedin.com/in/halildemirci)
+
+---
+
+<sub>💼 Web geliştirme, e-ticaret ve özel yazılım projeleri için işbirliğine açığım.</sub>
