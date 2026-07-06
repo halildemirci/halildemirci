@@ -32,7 +32,7 @@
 ### 📫 İletişim
 
 - **E-posta:** halildemircitr@gmail.com
-- **LinkedIn:** [linkedin.com/in/halildemirci](https://linkedin.com/in/halildemirci)
+- **LinkedIn:** [linkedin.com/in/halildemircii](https://linkedin.com/in/halildemircii)
 
 ---
 
