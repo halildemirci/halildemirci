@@ -22,7 +22,7 @@
 | Proje | Açıklama |
 |-------|----------|
 | **[Bunu Alırsın](https://bunualirsin.com)** | Yapay zeka destekli hediye asistanı — OpenAI entegrasyonu, kullanıcı profilleri, kurumsal hediye akışı |
-| **[Ticaretly](https://ticaretly.com)** | Dijital ürün & e-pin satış platformu — ürün varyantları, sepet, ödeme entegrasyonu |
+| **[Oyunun Adresi](https://test.oyununadresi.com)** | Dijital oyun ürünleri (e-pin, oyun kredisi) satış platformu — ürün varyantları, sepet, ödeme entegrasyonu, satıcı sistemi |
 | **[GaleriDefteri](https://galeridefteri.com)** | Oto galerileri için finans yönetim paneli (SaaS) — anlık kâr takibi, raporlama |
 
 İşletmeler için sektörel web siteleri: diş kliniği, güzellik merkezi, oto servis, hukuk bürosu, psikolojik danışmanlık.
