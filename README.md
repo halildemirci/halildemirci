@@ -25,14 +25,15 @@
 | **[Oyunun Adresi](https://test.oyununadresi.com)** | Dijital oyun ürünleri (e-pin, oyun kredisi) satış platformu — ürün varyantları, sepet, ödeme entegrasyonu, satıcı sistemi |
 | **[GaleriDefteri](https://galeridefteri.com)** | Oto galerileri için finans yönetim paneli (SaaS) — anlık kâr takibi, raporlama |
 
-İşletmeler için sektörel web siteleri: diş kliniği, güzellik merkezi, oto servis, hukuk bürosu, psikolojik danışmanlık.
+İşletmeler için sektörel web siteleri (canlı):
+[Liva Dent](https://liva-dent.vercel.app) · [Liva Beauty](https://liva-beauty-center.vercel.app) · [Liva Hukuk](https://liva-hukuk.vercel.app) · [Liva Psikolog](https://liva-psikolog.vercel.app) · [Mert Auto Works](https://mert-auto-works.vercel.app)
 
 ---
 
 ### 📫 İletişim
 
 - **E-posta:** halildemircitr@gmail.com
-- **LinkedIn:** [linkedin.com/in/halildemircii](https://linkedin.com/in/halildemircii)
+- **LinkedIn:** [linkedin.com/in/halildemircii](https://www.linkedin.com/in/halildemircii)
 
 ---
 
