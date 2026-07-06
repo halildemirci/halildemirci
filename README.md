@@ -8,12 +8,14 @@
 
 ### 🛠 Teknolojiler
 
-**Backend:** Node.js (Express) · PHP (Laravel) · RabbitMQ · Redis · Socket.io
-**Frontend:** React · Next.js · React Native · Tailwind CSS · Redux · Zustand
-**Veritabanı:** PostgreSQL · MySQL · MongoDB · Redis
-**Mimari:** Microservices · CQRS · Event-Driven Architecture
-**DevOps & Araçlar:** Docker · PM2 · Cloudflare · Git · REST API · Prisma · Sequelize
-**AI:** OpenAI API entegrasyonu
+| Alan | Teknolojiler |
+|------|--------------|
+| **Backend** | Node.js (Express) · PHP (Laravel) · RabbitMQ · Redis · Socket.io |
+| **Frontend** | React · Next.js · React Native · Tailwind CSS · Redux · Zustand |
+| **Veritabanı** | PostgreSQL · MySQL · MongoDB · Redis |
+| **Mimari** | Microservices · CQRS · Event-Driven Architecture |
+| **DevOps & Araçlar** | Docker · PM2 · Cloudflare · Git · REST API · Prisma · Sequelize |
+| **AI** | OpenAI API entegrasyonu |
 
 ---
 
